@@ -1,0 +1,9 @@
+p
+{
+    display: none;
+}
+
+section h1:hover p
+{
+    display: block;
+}

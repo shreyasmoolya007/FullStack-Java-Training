@@ -1,0 +1,40 @@
+.navbar
+{
+    background-color: red;
+    height:20vh;
+}
+
+.section
+{
+    background-color: blue;
+    height:20vh;
+}
+
+.section1
+{
+    background-color: green;
+    height:20vh;
+}
+
+.class
+{
+    background-color: blue;
+}
+
+div
+{
+    height: 33%;
+    width:25%;    
+    border: 1px solid black;
+    background-image: radial-gradient(red,blue,green);
+    background-color: rgb(31, 136, 228);
+ 
+}
+
+#section2
+{
+    height: 50vh;
+    width: 50%;
+    background-image: linear-gradient(red,blue,green);
+     background-color: rgb(227, 227, 0);
+}
